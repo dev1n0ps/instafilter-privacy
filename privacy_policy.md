@@ -18,6 +18,4 @@ User preferences such as blocked keywords are stored locally using Chrome's stor
 InstaFilter does not transmit user data to third parties.
 
 ## Contact
-For questions regarding this privacy policy, please contact:
-
-[<img src="nullrabbit_githubstyle_48.png" height="30"> contact@thenullrabbit.com](mailto:contact@thenullrabbit.com)
+For questions regarding this privacy policy, please contact: contact@thenullrabbit.com
