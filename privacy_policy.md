@@ -22,4 +22,4 @@ For questions regarding this privacy policy, please contact:
 
 contact@thenullrabbit.com
 
-[![Email](https://img.shields.io/badge/Email-contact@thenullrabbit.com-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@thenullrabbit.com)
+[![Thenullrabbit](https://img.shields.io/badge/🐇%20Thenullrabbit-contact@thenullrabbit.com-8e44ad?style=for-the-badge)](mailto:contact@thenullrabbit.com)
