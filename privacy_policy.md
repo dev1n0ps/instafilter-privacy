@@ -20,6 +20,4 @@ InstaFilter does not transmit user data to third parties.
 ## Contact
 For questions regarding this privacy policy, please contact:
 
-contact@thenullrabbit.com
-
-[![Thenullrabbit](https://img.shields.io/badge/🐇%20Thenullrabbit-contact@thenullrabbit.com-8e44ad?style=for-the-badge)](mailto:contact@thenullrabbit.com)
+[<img src="nullrabbit_githubstyle_48.png" height="30"> contact@thenullrabbit.com](mailto:contact@thenullrabbit.com)
